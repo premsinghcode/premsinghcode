@@ -6,7 +6,7 @@
 I'm a passionate self-taught full-stack web developer and a freelancer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-- 💼 any freelance work? do reach out to me directly at premsinghcode@gmail.com would be happy to help
+- 💼 any freelance work? do reach out to me directly at premsinghcode@gmail.com
 - 💬 I love connecting with other techies.
 
 ### 📫 How to reach me:
