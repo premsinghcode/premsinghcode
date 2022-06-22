@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Prem Singh](https://github.com/premsinghcode/)
+## Hey there, I'm [Prem Singh](https://github.com/premsinghcode/)
 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
